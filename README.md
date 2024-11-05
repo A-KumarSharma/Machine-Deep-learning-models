@@ -6,6 +6,10 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+ <img src="https://raw.githubusercontent.com/A-KumarSharma/A-KumarSharma/output/snake.svg" alt="Snake animation" />
+
+###
+
 <!---
 A-KumarSharma/A-KumarSharma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
