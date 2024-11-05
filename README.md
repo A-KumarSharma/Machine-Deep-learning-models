@@ -5,8 +5,7 @@
 - 📫 How to reach me in sharmaakshat2222@gmail.com ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
- <img src="https://raw.githubusercontent.com/A-KumarSharma/A-KumarSharma/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/A-KumarSharma/A-KumarSharma/output/snake.svg" alt="Snake animation" />
 
 ###
 
